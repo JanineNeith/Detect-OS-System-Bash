@@ -1,4 +1,4 @@
-# Detect-OS-system-Bash
+# Detect-OS-System-Bash
 
 Using the command -v command, the script initially verifies whether the nmap program is installed. The script quits with an error message if nmap is not installed.
 
